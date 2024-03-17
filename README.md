@@ -46,7 +46,7 @@ Training is run for `num_epochs = 30` epochs with a `batch_size = 200`.
 ---
 
 ## References
-1. *Estimating individual treatment effect: generalization bounds and algorithms*, Shalit et. al 2016 | [1606.03976](https://arxiv.org/abs/1606.03976)
+1. *Estimating individual treatment effect: generalization bounds and algorithms*, Shalit et al. 2016 | [1606.03976](https://arxiv.org/abs/1606.03976)
 2. Dr. Fredrik D. Johansson's website | [link](https://www.fredjo.com/)
 3. Causal Forge's documentation | [link](https://causalforge.readthedocs.io/en/latest/user_guide/Loading_Causal_RW_Benchmarking_Datasets.html)
 4. Causal Forge's GitHub | [link](https://github.com/anthem-ai/causalforge/tree/main)
